@@ -3,7 +3,10 @@
 Dados sobre a propagação do coronavírus nas regiões norte, nordeste e noroeste de Minas Gerais.<br>
 Data about coronavirus propagation in the north, northeast and northwest of Minas Gerais. <br>
 
-# SES Minas Database
+# Databases 
+
+* SESMG (Secretaria de Saúde - Minas Gerais)
+* MSBR (Minstério da Saúde - Brasil)
 
 
 
