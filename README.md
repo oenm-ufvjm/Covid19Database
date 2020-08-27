@@ -6,9 +6,9 @@ Data about coronavirus propagation in the north, northeast and northwest of Mina
 # Databases 
 
 * SESMG (Secretaria de Saúde - Minas Gerais)
+  * MacrorregiaoNortedeMinas (Macroregião do Norte de Minas)
 * MSBR (Minstério da Saúde - Brasil)
 * DataBase (Nosso Banco de Dados)
-- MacrorregiaoNortedeMinas (Macroregião do Norte de Minas)
 
 
 
